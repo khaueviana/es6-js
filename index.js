@@ -1,6 +1,9 @@
-var samplelet = require('./es6_let.js');
-var sampleconst = require('./es6_const.js');
+var sampleLet = require('./es6_let.js');
+var sampleConst = require('./es6_const.js');
+var sampleArrowFunction = require('./es6_arrowfunction.js');
 
-samplelet();
+//sampleLet();
 
-sampleconst();
+//sampleConst();
+
+sampleArrowFunction();
