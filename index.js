@@ -9,6 +9,7 @@ var sampleOctalBinary = require('./es6-octal-binary.js');
 var sampleObjectDestructuring = require('./es6-array-object-destructuring.js');
 var sampleSuper = require('./es6-super.js');
 var sampleLiteralDelimiter = require('./es6-literal-delimiter.js');
+var sampleForOf = require('./es6-for-of.js');
 
 //sampleLet();
 
@@ -28,4 +29,6 @@ var sampleLiteralDelimiter = require('./es6-literal-delimiter.js');
 
 //sampleSuper();
 
-sampleLiteralDelimiter();
+//sampleLiteralDelimiter();
+
+sampleForOf();
