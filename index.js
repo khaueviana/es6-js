@@ -1,3 +1,4 @@
+
 var sampleLet = require('./es6-let.js');
 var sampleConst = require('./es6-const.js');
 var sampleArrowFunction = require('./es6-arrow-function.js');
@@ -7,6 +8,7 @@ var sampleLiteralObject = require('./es6-literal-object.js');
 var sampleOctalBinary = require('./es6-octal-binary.js');
 var sampleObjectDestructuring = require('./es6-array-object-destructuring.js');
 var sampleSuper = require('./es6-super.js');
+var sampleLiteralDelimiter = require('./es6-literal-delimiter.js');
 
 //sampleLet();
 
@@ -24,4 +26,6 @@ var sampleSuper = require('./es6-super.js');
 
 //sampleObjectDestructuring();
 
-sampleSuper();
+//sampleSuper();
+
+sampleLiteralDelimiter();
