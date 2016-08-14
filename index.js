@@ -10,6 +10,7 @@ var sampleObjectDestructuring = require('./es6-array-object-destructuring.js');
 var sampleSuper = require('./es6-super.js');
 var sampleLiteralDelimiter = require('./es6-literal-delimiter.js');
 var sampleForOf = require('./es6-for-of.js');
+var sampleWeakMap = require('./es6-weak-map.js');
 
 //sampleLet();
 
@@ -31,4 +32,6 @@ var sampleForOf = require('./es6-for-of.js');
 
 //sampleLiteralDelimiter();
 
-sampleForOf();
+//sampleForOf();
+
+sampleWeakMap();
