@@ -12,6 +12,7 @@ var sampleLiteralDelimiter = require('./es6-literal-delimiter.js');
 var sampleForOf = require('./es6-for-of.js');
 var sampleWeakMap = require('./es6-weak-map.js');
 var sampleSetWeakset = require('./es6-set-weakset.js');
+var sampleClass = require('./es6-class.js');
 
 //sampleLet();
 
@@ -37,4 +38,6 @@ var sampleSetWeakset = require('./es6-set-weakset.js');
 
 //sampleWeakMap();
 
-sampleSetWeakset();
+//sampleSetWeakset();
+
+sampleClass();
