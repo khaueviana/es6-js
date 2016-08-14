@@ -6,6 +6,7 @@ var sampleSpreadRest = require('./es6-spread-rest.js');
 var sampleLiteralObject = require('./es6-literal-object.js');
 var sampleOctalBinary = require('./es6-octal-binary.js');
 var sampleObjectDestructuring = require('./es6-array-object-destructuring.js');
+var sampleSuper = require('./es6-super.js');
 
 //sampleLet();
 
@@ -21,4 +22,6 @@ var sampleObjectDestructuring = require('./es6-array-object-destructuring.js');
 
 //sampleOctalBinary();
 
-sampleObjectDestructuring();
+//sampleObjectDestructuring();
+
+sampleSuper();
