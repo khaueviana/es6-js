@@ -1,4 +1,3 @@
-
 var sampleLet = require('./es6-let.js');
 var sampleConst = require('./es6-const.js');
 var sampleArrowFunction = require('./es6-arrow-function.js');
@@ -14,6 +13,7 @@ var sampleWeakMap = require('./es6-weak-map.js');
 var sampleSetWeakset = require('./es6-set-weakset.js');
 var sampleClass = require('./es6-class.js');
 var sampleSymbol = require('./es6-symbol.js');
+var sampleIterator = require('./es6-iterator.js');
 
 //sampleLet();
 
@@ -43,4 +43,6 @@ var sampleSymbol = require('./es6-symbol.js');
 
 //sampleClass();
 
-sampleSymbol();
+//sampleSymbol();
+
+sampleIterator();
