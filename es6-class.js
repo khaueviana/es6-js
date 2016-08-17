@@ -22,19 +22,31 @@ module.exports = function () {
     Tarefa.carregarTodas(); // "carregando todas as tasks.."
 
     class Carro {
-        constructor() {
+        constructor(name) {
+
+            this.name = name;
+
             console.log("Criando um novo carro");
+        }
+
+        get fullName() {
+            return this.name += " - Carrão!"
+        }
+
+        set fullName(value) {
+            this.name = value;
         }
     }
 
     class Porsche extends Carro {
-        constructor() {
-            super();
+        constructor(name) {
+            super(name);
             console.log("Criando um Porsche");
         }
     }
 
-    let c = new Porsche();
+    let c = new Porsche("Carro do KV");
+    console.log(c.fullName);
     // Criando um novo carro
     // Criando um Porsche
 

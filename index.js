@@ -51,4 +51,4 @@ var samplePromisses = require('./es6-promisses.js');
 
 //sampleGenerators();
 
-samplePromisses();
+//samplePromisses();
