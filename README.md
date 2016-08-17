@@ -7,3 +7,5 @@ Implementação de exemplos dos novos recursos do ES6, utilizando Node.Js
 https://github.com/alexmoreno/ES6-para-humanos
 
 https://github.com/metagrover/ES6-for-humans
+
+http://walde.co/2016/06/19/ecmascript-6-classes/?
