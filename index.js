@@ -13,6 +13,7 @@ var sampleForOf = require('./es6-for-of.js');
 var sampleWeakMap = require('./es6-weak-map.js');
 var sampleSetWeakset = require('./es6-set-weakset.js');
 var sampleClass = require('./es6-class.js');
+var sampleSymbol = require('./es6-symbol.js');
 
 //sampleLet();
 
@@ -40,4 +41,6 @@ var sampleClass = require('./es6-class.js');
 
 //sampleSetWeakset();
 
-sampleClass();
+//sampleClass();
+
+sampleSymbol();
