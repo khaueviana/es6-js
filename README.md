@@ -1,8 +1,8 @@
 # js-es6
 
-Implementação de exemplos dos novos recursos do ES6, utilizando Node.Js
+Examples of implementation of the new features of the ES6 using Node.js
 
-**Referências**
+**References**
 
 https://github.com/alexmoreno/ES6-para-humanos
 
