@@ -2,7 +2,8 @@
 
 Examples of implementation of the new features of the ES6 using Node.js
 
-**References**
+References
+----------
 
 https://github.com/alexmoreno/ES6-para-humanos
 
