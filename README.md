@@ -1,4 +1,4 @@
-# js-es6
+# es6-js
 
 Examples of implementation of the new features of the ES6 using Node.js
 
