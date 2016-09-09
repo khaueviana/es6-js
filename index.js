@@ -15,7 +15,7 @@ var sampleClass = require('./es6-class.js');
 var sampleSymbol = require('./es6-symbol.js');
 var sampleIterator = require('./es6-iterator.js');
 var sampleGenerators = require('./es6-generators.js');
-var samplePromisses = require('./es6-promisses.js');
+var samplePromises = require('./es6-promises.js');
 
 //sampleLet();
 
@@ -51,4 +51,4 @@ var samplePromisses = require('./es6-promisses.js');
 
 //sampleGenerators();
 
-//samplePromisses();
+//samplePromises();
