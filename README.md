@@ -1,6 +1,6 @@
 # es6-js
 
-Examples of implementation of the new features of the ES6 using Node.js
+Sample implementation of the new ES6 features using Node.js
 
 References
 ----------
